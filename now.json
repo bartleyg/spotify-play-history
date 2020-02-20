@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "REACT_APP_SPOTIFY_CLIENT_ID": "@react_app_spotify_client_id",
+      "REACT_APP_SPOTIFY_CALLBACK_URL": "@react_app_spotify_callback_url"
+    }
+  }
+}
