@@ -1,6 +1,6 @@
 ## Spotify Play History
 
-![Spotify Play History Screenshot](screenshot-iphonex.png?raw=true "Spotify Play History Screenshot")
+![](screenshot.png?raw=true "Spotify Play History Screenshot")
 
 [Spotify Play History](https://spotify-play-history.now.sh) allows you to see the Spotify songs you recently played on your iPhone or mobile. It's possible to see your song play history in the play queue on the Spotify desktop app, but this feature (as of Feb 2020) is not in Spotify's mobile app. However it is available in Spotify's Web API through this site.
 
